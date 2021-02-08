@@ -1,0 +1,13 @@
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\bin\Release\RegistroDePonto.exe.config
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\bin\Release\RegistroDePonto.exe
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\bin\Release\RegistroDePonto.pdb
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\bin\Release\RegistroDePonto.xml
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.vbprojAssemblyReference.cache
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.Form1.resources
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.Formx.resources
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.Resources.resources
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.vbproj.GenerateResource.cache
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.vbproj.CoreCompileInputs.cache
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.exe
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.xml
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\obj\Release\RegistroDePonto.pdb

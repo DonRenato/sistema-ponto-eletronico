@@ -1,0 +1,17 @@
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\bin\Debug\RegistroDePonto.exe
+C:\Users\ravel\source\repos\RegistroDePonto\RegistroDePonto\bin\Debug\RegistroDePonto.pdb
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\bin\Debug\RegistroDePonto.exe.config
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\bin\Debug\RegistroDePonto.exe
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\bin\Debug\RegistroDePonto.pdb
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\bin\Debug\RegistroDePonto.xml
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.vbprojAssemblyReference.cache
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.Form1.resources
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.Form2.resources
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.Form3.resources
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.Formx.resources
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.Resources.resources
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.vbproj.GenerateResource.cache
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.vbproj.CoreCompileInputs.cache
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.exe
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.xml
+C:\Users\ravel\OneDrive\Desktop\RegistroDePonto\RegistroDePonto\obj\Debug\RegistroDePonto.pdb
